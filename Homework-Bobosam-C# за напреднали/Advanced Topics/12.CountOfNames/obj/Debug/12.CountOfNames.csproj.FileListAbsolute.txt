@@ -1,5 +1,0 @@
-D:\Visual Studio 2010\Projects\Advanced Topics\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config
-D:\Visual Studio 2010\Projects\Advanced Topics\12.CountOfNames\bin\Debug\12.CountOfNames.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
-D:\Visual Studio 2010\Projects\Advanced Topics\12.CountOfNames\obj\Debug\12.CountOfNames.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\12.CountOfNames\obj\Debug\12.CountOfNames.pdb

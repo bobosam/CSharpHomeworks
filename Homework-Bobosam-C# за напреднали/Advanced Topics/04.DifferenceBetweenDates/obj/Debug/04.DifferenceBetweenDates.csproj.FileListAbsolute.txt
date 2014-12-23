@@ -1,6 +1,0 @@
-D:\Visual Studio 2010\Projects\Advanced Topics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
-D:\Visual Studio 2010\Projects\Advanced Topics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
-D:\Visual Studio 2010\Projects\Advanced Topics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
-D:\Visual Studio 2010\Projects\Advanced Topics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

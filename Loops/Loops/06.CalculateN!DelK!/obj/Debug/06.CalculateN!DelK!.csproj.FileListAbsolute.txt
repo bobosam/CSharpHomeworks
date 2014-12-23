@@ -1,6 +1,0 @@
-D:\Visual Studio 2010\Projects\Loops\06.CalculateN!DelK!\bin\Debug\06.CalculateN!DelK!.exe.config
-D:\Visual Studio 2010\Projects\Loops\06.CalculateN!DelK!\bin\Debug\06.CalculateN!DelK!.exe
-D:\Visual Studio 2010\Projects\Loops\06.CalculateN!DelK!\bin\Debug\06.CalculateN!DelK!.pdb
-D:\Visual Studio 2010\Projects\Loops\06.CalculateN!DelK!\obj\Debug\06.CalculateN!DelK!.csprojResolveAssemblyReference.cache
-D:\Visual Studio 2010\Projects\Loops\06.CalculateN!DelK!\obj\Debug\06.CalculateN!DelK!.exe
-D:\Visual Studio 2010\Projects\Loops\06.CalculateN!DelK!\obj\Debug\06.CalculateN!DelK!.pdb
