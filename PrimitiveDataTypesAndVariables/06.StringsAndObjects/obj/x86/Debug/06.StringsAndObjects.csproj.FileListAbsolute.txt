@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\obj\x86\Debug\06.StringsAndObjects.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\06.StringsAndObjects\obj\x86\Debug\06.StringsAndObjects.pdb

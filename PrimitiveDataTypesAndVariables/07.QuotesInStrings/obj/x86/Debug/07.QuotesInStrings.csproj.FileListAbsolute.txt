@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\x86\Debug\07.QuotesInStrings.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\07.QuotesInStrings\obj\x86\Debug\07.QuotesInStrings.pdb

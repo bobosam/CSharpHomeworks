@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\obj\x86\Debug\04.UnicodeCharacter.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\obj\x86\Debug\04.UnicodeCharacter.pdb

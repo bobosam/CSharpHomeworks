@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\11.BankAccountData\obj\x86\Debug\11.BankAccountData.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\11.BankAccountData\obj\x86\Debug\11.BankAccountData.pdb

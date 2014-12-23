@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\01.DeclareVariables.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\obj\x86\Debug\01.DeclareVariables.pdb

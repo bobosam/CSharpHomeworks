@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\x86\Debug\13.ComparingFloats.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\13.ComparingFloats\obj\x86\Debug\13.ComparingFloats.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\02. FloatOrDouble\obj\x86\Debug\_02.FloatOrDouble.exe
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\02. FloatOrDouble\obj\x86\Debug\_02.FloatOrDouble.pdb
+D:\Visual Studio 2010\Projects\PrimitiveDataTypesAndVariables\02. FloatOrDouble\obj\x86\Debug\02. FloatOrDouble.csprojResolveAssemblyReference.cache
