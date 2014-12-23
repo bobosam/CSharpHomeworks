@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Intro-Programming-Homework\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\08.CurrentDateAndTime\bin\Debug\08.CurrentDateAndTime.pdb
+D:\Visual Studio 2010\Intro-Programming-Homework\08.CurrentDateAndTime\obj\x86\Debug\08.CurrentDateAndTime.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\08.CurrentDateAndTime\obj\x86\Debug\08.CurrentDateAndTime.pdb

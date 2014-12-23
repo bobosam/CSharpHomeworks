@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Intro-Programming-Homework\03.Problem 6. Print Numbers\bin\Debug\_03.Problem_6.Print_Numbers.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\03.Problem 6. Print Numbers\bin\Debug\_03.Problem_6.Print_Numbers.pdb
+D:\Visual Studio 2010\Intro-Programming-Homework\03.Problem 6. Print Numbers\obj\x86\Debug\_03.Problem_6.Print_Numbers.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\03.Problem 6. Print Numbers\obj\x86\Debug\_03.Problem_6.Print_Numbers.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Intro-Programming-Homework\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\Visual Studio 2010\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

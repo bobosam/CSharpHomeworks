@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe.config
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\06. FourDigitNumber\bin\Debug\_06.FourDigitNumber.pdb
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\06. FourDigitNumber\obj\Debug\06. FourDigitNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\06. FourDigitNumber\obj\Debug\_06.FourDigitNumber.pdb

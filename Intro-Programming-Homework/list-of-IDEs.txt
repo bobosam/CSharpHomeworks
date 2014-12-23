@@ -1,0 +1,9 @@
+1.Delphi			Delphi is an integrated development environment (IDE) for console , desktop graphical , web , and mobile applications. Delphi's compilers use their own Object Pascal dialect of Pascal and generate native code for 32- and 64-bit Windows operating systems, as well as 32-bit Mac OS X , iOS and Android
+
+2. Eclipse			The initial codebase originated from IBM VisualAge .  The Eclipse software development kit (SDK), which includes the Java development tools, is meant for Java developers.  Users can extend its abilities by installing plug-ins written for the Eclipse Platform, such as development toolkits for other programming languages, and can write and contribute their own plug-in modules.
+
+3. Xcode			Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software for OS X and iOS .  First released in 2003, the latest stable release is version 5.1 and is available via the Mac App Store free of charge for Mac OS X Lion and OS X Mountain Lion users.
+
+4. Xojo			Xojo is a programming environment developed and commercially marketed by Xojo, Inc of Austin, Texas for software development targeting Mac OS X , Microsoft Windows , 32-bit x86 Linux , as well as the web .  Xojo uses a proprietary object-oriented programming language , also known as Xojo.
+
+5. Oracle JDeveloper		JDeveloper is a freeware IDE supplied by Oracle Corporation .  It offers features for development in Java , XML , SQL and PL/SQL , HTML , JavaScript , BPEL and PHP .  JDeveloper covers the full development lifecycle from design through coding, debugging, optimization and profiling to deploying.

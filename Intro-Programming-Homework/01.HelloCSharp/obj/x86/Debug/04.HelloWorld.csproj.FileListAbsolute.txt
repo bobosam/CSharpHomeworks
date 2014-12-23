@@ -1,0 +1,2 @@
+D:\Visual Studio 2010\Projects\Intro-Programming-Homework\01.HelloCSharp\obj\x86\Debug\01.HelloCSharp.exe
+D:\Visual Studio 2010\Projects\Intro-Programming-Homework\01.HelloCSharp\obj\x86\Debug\01.HelloCSharp.pdb

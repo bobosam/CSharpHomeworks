@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\Loops\05.Calculate\bin\Debug\05.Calculate.exe.config
+D:\Visual Studio 2010\Projects\Loops\05.Calculate\obj\Debug\05.Calculate.exe
+D:\Visual Studio 2010\Projects\Loops\05.Calculate\obj\Debug\05.Calculate.pdb
+D:\Visual Studio 2010\Projects\Loops\05.Calculate\bin\Debug\05.Calculate.exe
+D:\Visual Studio 2010\Projects\Loops\05.Calculate\bin\Debug\05.Calculate.pdb
+D:\Visual Studio 2010\Projects\Loops\05.Calculate\obj\Debug\05.CalculateSumS.csprojResolveAssemblyReference.cache

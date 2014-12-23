@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\Loops\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+D:\Visual Studio 2010\Projects\Loops\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+D:\Visual Studio 2010\Projects\Loops\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+D:\Visual Studio 2010\Projects\Loops\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+D:\Visual Studio 2010\Projects\Loops\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb
+D:\Visual Studio 2010\Projects\Loops\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.csprojResolveAssemblyReference.cache

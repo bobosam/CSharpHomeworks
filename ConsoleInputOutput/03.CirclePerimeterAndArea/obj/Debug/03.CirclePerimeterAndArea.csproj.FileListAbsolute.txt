@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+D:\Visual Studio 2010\Projects\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+D:\Visual Studio 2010\Projects\ConsoleInputOutput\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+D:\Visual Studio 2010\Projects\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+D:\Visual Studio 2010\Projects\ConsoleInputOutput\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb

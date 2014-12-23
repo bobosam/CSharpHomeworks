@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

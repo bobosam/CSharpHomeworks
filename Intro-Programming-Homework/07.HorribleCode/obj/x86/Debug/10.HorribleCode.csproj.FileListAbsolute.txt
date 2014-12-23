@@ -1,0 +1,2 @@
+D:\Visual Studio 2010\Intro-Programming-Homework\07.HorribleCode\obj\x86\Debug\07.HorribleCode.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\07.HorribleCode\obj\x86\Debug\07.HorribleCode.pdb

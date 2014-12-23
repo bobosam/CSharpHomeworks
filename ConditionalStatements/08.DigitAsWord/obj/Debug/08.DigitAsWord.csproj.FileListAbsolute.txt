@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
+D:\Visual Studio 2010\Projects\ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
+D:\Visual Studio 2010\Projects\ConditionalStatements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
+D:\Visual Studio 2010\Projects\ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
+D:\Visual Studio 2010\Projects\ConditionalStatements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

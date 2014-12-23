@@ -1,0 +1,2 @@
+D:\Visual Studio 2010\Intro-Programming-Homework\10.PrintLongSequence\obj\x86\Debug\10.PrintLongSequence.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\10.PrintLongSequence\obj\x86\Debug\10.PrintLongSequence.pdb

@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe.config
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.pdb
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\14. ModifyABitAtGivenPosition\obj\Debug\14. ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\14. ModifyABitAtGivenPosition\obj\Debug\_14.ModifyABitAtGivenPosition.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\14. ModifyABitAtGivenPosition\obj\Debug\_14.ModifyABitAtGivenPosition.pdb

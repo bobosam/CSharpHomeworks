@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe.config
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\12. ExtractBitFromInteger\obj\Debug\12. ExtractBitFromInteger.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb

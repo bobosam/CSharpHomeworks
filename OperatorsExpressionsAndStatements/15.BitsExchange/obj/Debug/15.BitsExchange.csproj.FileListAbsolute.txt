@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.pdb

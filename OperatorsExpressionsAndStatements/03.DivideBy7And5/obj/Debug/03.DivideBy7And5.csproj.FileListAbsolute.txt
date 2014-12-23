@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe.config
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\bin\Debug\03.DivideBy7And5.pdb
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.exe
+D:\Visual Studio 2010\Projects\OperatorsExpressionsAndStatements\03.DivideBy7And5\obj\Debug\03.DivideBy7And5.pdb

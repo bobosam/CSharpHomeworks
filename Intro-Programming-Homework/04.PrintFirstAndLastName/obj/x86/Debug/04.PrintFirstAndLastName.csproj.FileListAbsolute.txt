@@ -1,0 +1,4 @@
+D:\Visual Studio 2010\Intro-Programming-Homework\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\04.PrintFirstAndLastName\bin\Debug\04.PrintFirstAndLastName.pdb
+D:\Visual Studio 2010\Intro-Programming-Homework\04.PrintFirstAndLastName\obj\x86\Debug\04.PrintFirstAndLastName.exe
+D:\Visual Studio 2010\Intro-Programming-Homework\04.PrintFirstAndLastName\obj\x86\Debug\04.PrintFirstAndLastName.pdb
