@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\Advanced Topics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+D:\Visual Studio 2010\Projects\Advanced Topics\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\Visual Studio 2010\Projects\Advanced Topics\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\Visual Studio 2010\Projects\Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\Visual Studio 2010\Projects\Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

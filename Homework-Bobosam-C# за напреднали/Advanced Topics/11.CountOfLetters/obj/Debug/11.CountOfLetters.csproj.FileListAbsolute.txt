@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\Advanced Topics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+D:\Visual Studio 2010\Projects\Advanced Topics\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+D:\Visual Studio 2010\Projects\Advanced Topics\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+D:\Visual Studio 2010\Projects\Advanced Topics\11.CountOfLetters\obj\Debug\11.CountOfLetters.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Advanced Topics\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+D:\Visual Studio 2010\Projects\Advanced Topics\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb
