@@ -1,6 +1,0 @@
-D:\Visual Studio 2010\Projects\Advanced Topics\Problem 5. SortingNumbers\bin\Debug\Problem_5.SortingNumbers.exe.config
-D:\Visual Studio 2010\Projects\Advanced Topics\Problem 5. SortingNumbers\bin\Debug\Problem_5.SortingNumbers.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\Problem 5. SortingNumbers\bin\Debug\Problem_5.SortingNumbers.pdb
-D:\Visual Studio 2010\Projects\Advanced Topics\Problem 5. SortingNumbers\obj\Debug\05. SortingNumbers.csprojResolveAssemblyReference.cache
-D:\Visual Studio 2010\Projects\Advanced Topics\Problem 5. SortingNumbers\obj\Debug\Problem_5.SortingNumbers.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\Problem 5. SortingNumbers\obj\Debug\Problem_5.SortingNumbers.pdb

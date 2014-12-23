@@ -1,6 +1,0 @@
-D:\Visual Studio 2010\Projects\Advanced Topics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe.config
-D:\Visual Studio 2010\Projects\Advanced Topics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\15.ExtractURLsFromText\bin\Debug\15.ExtractURLsFromText.pdb
-D:\Visual Studio 2010\Projects\Advanced Topics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.csprojResolveAssemblyReference.cache
-D:\Visual Studio 2010\Projects\Advanced Topics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.exe
-D:\Visual Studio 2010\Projects\Advanced Topics\15.ExtractURLsFromText\obj\Debug\15.ExtractURLsFromText.pdb
